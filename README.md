@@ -2,7 +2,7 @@
 
 <h2>General IT Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/micaiah-thomas/LABURL)
+- [Active Directory Home Lab](https://github.com/micaiah-thomas/ActiveDirectoryLab/tree/main)
 - [Hello World!](https://github.com/micaiah-thomas/LABURL)
 
 <h2>Certifications</h2>
